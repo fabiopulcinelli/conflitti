@@ -6,7 +6,7 @@ public class conflittiMain {
 		System.out.println("Ciao Ross Loris ");
 
 		
-		System.out.println("come ");
+		System.out.println("Ciao Fabio ");
 		
 		System.out.println("va?");
 	}
